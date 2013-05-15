@@ -1,4 +1,7 @@
 apachelogprocessor
 ==================
 
-Perl script to quickly summariase an Apache access log in common/combined format.
+Perl script to quickly summarise an Apache access log in 
+common/combined format.
+
+Requires Date::Format module from CPAN.
